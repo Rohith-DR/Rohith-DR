@@ -60,7 +60,7 @@
       
   </div>
     </details>
-    > "Engineering the future, one circuit at a time!"
+    "Engineering the future, one circuit at a time!"
   </div>
 </div>
 
@@ -136,28 +136,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-DR&show_icons=true&theme=radical" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-DR&layout=compact&theme=radical" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-DR&show_icons=true&theme=gruvbox" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-DR&layout=compact&theme=gruvbox" height="150" alt="languages graph"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rohith-DR&theme=react&hide_border=true&background=00000000&stroke=0D1117" height="180" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com/?user=Rohith-DR&theme=gruvbox&hide_border=false&background=00000000&stroke=0D1117" height="180" alt="streak graph"/>
 </div>
 
 ## 🏅 Achievements & Certifications
 
 - 🎓 **ECE** - Global Academy of Technology
-- 🏆 **** - [Organization]
-- 🏆 **[Certification/Award 2]** - [Organization]
-- 📜 **[Professional License/Certification]** - [Authority]
+- 🏆 **Embedded System Design with ARM** - NPTEL
+- 🏆 **Hardware Modeling Using Verilog** - NPTEL
 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="_blank">
+  <a href="https://linkedin.com/in/rohith-dr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:rohithrohith838@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 </div>
@@ -165,21 +164,27 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-DR&custom_title=Rohith-DR's%20Activity%20Graph&theme=radical&hide_border=true" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-DR&custom_title=Rohith-DR's%20Activity%20Graph&theme=gruvbox&hide_border=true" alt="activity graph">
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <h2 style="color:#00FFFF;">🏆 GitHub Achievements 🏆</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohith-DR&theme=gruvbox&no-frame=true&column=6" alt="GitHub Trophies" />
+  <br><br><br>
+</div>
+
+<div align="center">
+  <h2 style="color:#00FFFF;">📦 My GitHub Contributions</h2>
+  <img src="https://ghchart.rshah.org/00FFFF/Rohith-DR" alt="GitHub chart" style="width: 100%; max-width: 900px;" />
+  <br><br><br>
 </div>
 
 <div align="center">
   <i>"If you want to find the secrets of the Universe, think in terms of energy, frequency and vibration." - NIKOLA TESLA </i>
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center" style="margin-top: -4px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0fffc1&height=200&section=footer" alt="Capsule Wave Footer" style="width: 100%; max-width: 1024px;" />
+</div>
 
 ---
