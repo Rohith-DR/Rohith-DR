@@ -119,17 +119,17 @@
 
 <div align="center">
   <!-- Replace these with your actual repositories -->
-  <a href="https://github.com/[YOUR_USERNAME]/[PROJECT_1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_1]&theme=radical" alt="Project 1" />
+  <a href="https://github.com/Rohith-DR/BPSK_Modulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=BPSK_Modulator&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/[YOUR_USERNAME]/[PROJECT_2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_2]&theme=radical" alt="Project 2" />
+  <a href="https://github.com/Rohith-DR/Tailor_bill_pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Tailor_bill_pro&theme=radical" alt="Project 2" />
   </a>
-  <a href="https://github.com/[YOUR_USERNAME]/[PROJECT_3]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_3]&theme=radical" alt="Project 3" />
+  <a href="https://github.com/Rohith-DR/Alexa_using_RaspberryPi_Zero_2W">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Alexa_using_RaspberryPi_Zero_2W&theme=radical" alt="Project 3" />
   </a>
-  <a href="https://github.com/[YOUR_USERNAME]/[PROJECT_4]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_4]&theme=radical" alt="Project 4" />
+  <a href="https://github.com/Rohith-DR/Verilog-Simulation-GUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Verilog-Simulation-GUI&theme=radical" alt="Project 4" />
   </a>
 </div>
 
