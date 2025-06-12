@@ -120,16 +120,16 @@
 <div align="center">
   <!-- Replace these with your actual repositories -->
   <a href="https://github.com/Rohith-DR/BPSK_Modulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=BPSK_Modulator&theme=radical" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=BPSK_Modulator&theme=radical" alt="Project 1"/>
   </a>
   <a href="https://github.com/Rohith-DR/Tailor_bill_pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Tailor_bill_pro&theme=radical" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Tailor_bill_pro&theme=radical" alt="Project 2"/>
   </a>
   <a href="https://github.com/Rohith-DR/Alexa_using_RaspberryPi_Zero_2W">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Alexa_using_RaspberryPi_Zero_2W&theme=radical" alt="Project 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Alexa_using_RaspberryPi_Zero_2W&theme=radical" alt="Project 3"/>
   </a>
   <a href="https://github.com/Rohith-DR/Verilog-Simulation-GUI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Verilog-Simulation-GUI&theme=radical" alt="Project 4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Verilog-Simulation-GUI&theme=radical" alt="Project 4"/>
   </a>
 </div>
 
