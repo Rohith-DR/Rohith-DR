@@ -125,8 +125,8 @@
   <a href="https://github.com/Rohith-DR/Tailor_bill_pro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Tailor_bill_pro&theme=radical" alt="Project 2"/>
   </a>
-  <a href="https://github.com/Rohith-DR/Alexa_using_RaspberryPi_Zero_2W">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Alexa_using_RaspberryPi_Zero_2W&theme=radical" alt="Project 3"/>
+  <a href="https://github.com/Rohith-DR/IoT_Water_meter_using_ESP32">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=IoT_Water_meter_using_ESP32&theme=radical" alt="Project 3"/>
   </a>
   <a href="https://github.com/Rohith-DR/Verilog-Simulation-GUI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Verilog-Simulation-GUI&theme=radical" alt="Project 4"/>
