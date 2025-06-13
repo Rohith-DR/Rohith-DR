@@ -118,18 +118,17 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-  <!-- Replace these with your actual repositories -->
   <a href="https://github.com/Rohith-DR/BPSK_Modulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=BPSK_Modulator&theme=radical" alt="Project 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=BPSK_Modulator&theme=radical&cache_seconds=1800&v=3" alt="BPSK Modulator"/>
   </a>
   <a href="https://github.com/Rohith-DR/Tailor_bill_pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Tailor_bill_pro&theme=radical" alt="Project 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Tailor_bill_pro&theme=radical&cache_seconds=1800&v=3" alt="Tailor Bill Pro"/>
   </a>
   <a href="https://github.com/Rohith-DR/IoT_Water_meter_using_ESP32">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=IoT_Water_meter_using_ESP32&theme=radical" alt="Project 3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=IoT_Water_meter_using_ESP32&theme=radical&cache_seconds=1800&v=3" alt="IoT Water Meter using ESP32"/>
   </a>
   <a href="https://github.com/Rohith-DR/Verilog-Simulation-GUI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Verilog-Simulation-GUI&theme=radical" alt="Project 4"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-DR&repo=Verilog-Simulation-GUI&theme=radical&cache_seconds=1800&v=3" alt="Verilog Simulation GUI"/>
   </a>
 </div>
 
