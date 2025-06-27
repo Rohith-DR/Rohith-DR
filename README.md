@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Electronics_Engineering-blue?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skills-Hardware_Design_&_VLSI_Design-green?style=for-the-badge&logo=altium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skills-Embedded_System_Design_&_VLSI_Design-green?style=for-the-badge&logo=altium&logoColor=white" />
   <img src="https://img.shields.io/badge/Passion-Innovation-orange?style=for-the-badge&logo=lightbulb&logoColor=white" />
 </div>
 
